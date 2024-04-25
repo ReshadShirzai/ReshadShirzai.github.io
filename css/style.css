@@ -2,10 +2,6 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-img {
-    margin-left: 200px;
-}
-
 h1 {
     text-align: center;
 }
@@ -14,8 +10,4 @@ h4 {
     text-align: center;
 }
 
-a {
-    text-decoration: none;
-    color:black ;
-}
 
